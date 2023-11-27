@@ -1,6 +1,6 @@
 <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
     <div class="container">
-      <a href="" class="navbar-brand">V-Folio</a>
+      <a href="" class="navbar-brand">Netronic</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar" aria-expanded="true">
         <span class="ti-menu"></span>
       </button>
@@ -21,10 +21,19 @@
           </li>
         </ul>
         <ul class="nav ml-auto">
-          <li class="nav-item">
-            <button class="btn btn-fab btn-theme no-shadow">En</button>
-          </li>
+            <li class="nav-item">
+                <a href="{{ route('language.switch', 'en') }}" class="btn btn-fab btn-theme no-shadow">En</a>
+            </li>
+            <li class="nav-item">
+                <a href="{{ route('language.switch', 'uz') }}" class="btn btn-fab btn-theme no-shadow">Uz</a>
+            </li>
+            <li class="nav-item">
+                <a href="{{ route('language.switch', 'ru') }}" class="btn btn-fab btn-theme no-shadow">Ru</a>
+            </li>
         </ul>
+        
+        
+        
       </div>
     </div>
   </div> 

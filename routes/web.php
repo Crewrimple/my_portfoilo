@@ -11,7 +11,7 @@ Route::get('/', function () {
 })->name('app');
 
 
-Route::get('/locale/{locale}', [LocaleController::class, 'setLocale'])->name('setLocale');
+Route::get('/language/{lang}', [LocaleController::class, 'switch'])->name('language.switch');
 Route::get('/', [SiteController::class, 'app'])->name('app');
 Route::get('/about', [SiteController::class, 'about'])->name('about');
 
