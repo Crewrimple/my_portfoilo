@@ -7,17 +7,17 @@
       <div class="collapse navbar-collapse" id="main-navbar">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a href="#home" class="nav-link" data-animate="scrolling">Home</a>
+            <a href="#home" class="nav-link" data-animate="scrolling">@lang('menu.home')</a>
           </li>
           <li class="nav-item">
-            <a href="#about" class="nav-link" data-animate="scrolling">About</a>
+            <a href="#about" class="nav-link" data-animate="scrolling">@lang('menu.about')</a>
           </li>
           
           <li class="nav-item">
-            <a href="#blog" class="nav-link" data-animate="scrolling">Blog</a>
+            <a href="#blog" class="nav-link" data-animate="scrolling">@lang('menu.blog')</a>
           </li>
           <li class="nav-item">
-            <a href="#contact" class="nav-link" data-animate="scrolling">Contact</a>
+            <a href="#contact" class="nav-link" data-animate="scrolling">@lang('menu.contact')</a>
           </li>
         </ul>
         <ul class="nav ml-auto">
@@ -31,9 +31,6 @@
                 <a href="{{ route('language.switch', 'ru') }}" class="btn btn-fab btn-theme no-shadow">Ru</a>
             </li>
         </ul>
-        
-        
-        
       </div>
     </div>
-  </div> 
+  </div>

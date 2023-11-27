@@ -16,7 +16,8 @@
             <li><b>@lang('profile.age'):</b> 19</li>
             
           </ul>
-          <button class="btn btn-theme-outline">@lang('profile.download_cv')</button>
+          <a href="https://github.com/Crewrimple" class="btn btn-theme-outline">@lang('profile.download_cv')</a>
+
         </div>
       </div>
     </div>

@@ -3,12 +3,12 @@
 return [
     'name' => 'Фаррух Дусниязов',
     'profession' => ' Full Stack веб-разработчик',
-    'description' => 'Существует множество вариантов Lorem Ipsum, но большинство из них было изменено...',
+    'description' => '',
     'from' => 'Из',
-    'lives_in' => 'Живет в',
+    'lives_in' => 'Живу в',
     'age' => 'Возраст',
     
-    'download_cv' => 'Скачать резюме',
+    'download_cv' => ' Мой Github профиль',
    
 ];
 

@@ -1,11 +1,11 @@
-<?php 
+<?php
+
 return [
-    'home' => 'Bosh sahifa',
-    'about' => 'Biz haqimizda',
-    'portfolio' => 'Portfolio',
-    'services' => 'Xizmatlar',
-    'contact' => 'Bog’lanish',
-    'terms' => 'Foydalanish shartlari',
-    'privacy' => 'Maxfiylik siyosati',
-    'copyright' => '&copy; 2023, Barcha huquqlar himoyalangan',
+    'where_to_find_me' => 'Mening joylashuvim',
+    'follow_me' => 'Menga ergashing',
+    'contact_me' => 'Menga murojaat qiling',
+    'subscribe' => 'Obuna bo\'lish',
+    'email_placeholder' => 'Elektron pochta manzili',
+    'subscribe_button' => 'Obuna bo\'lish',
+    'copyright' => 'Huquqlar himoyalangan &copy;2023 Farrux Dusniyazov tomonidan',
 ];

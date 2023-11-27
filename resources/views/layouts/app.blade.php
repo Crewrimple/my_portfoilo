@@ -48,7 +48,7 @@
       <div class="d-block">
         <a href="https://macodeid.com/projects/virtual-folio/" class="btn btn-fab btn-sm" title="Get this template" data-toggle="tooltip" data-placement="left"><span class="ti-download"></span></a>
       </div>
-      <!-- Help -->
+     
       <div class="d-block">
         <a href="#" class="btn btn-fab btn-sm" title="Help" data-toggle="tooltip" data-placement="left"><span class="ti-help"></span></a>
       </div>
