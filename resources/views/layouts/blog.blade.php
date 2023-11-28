@@ -35,7 +35,7 @@
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="../assets/img/444.jpg" alt="">
+              <img src="../assets/img/58.jpg" alt="">
             </div>
             <div class="caption">
               <a href="javascript:void(0)" class="post-category">@lang('blog.post_3_category')</a>

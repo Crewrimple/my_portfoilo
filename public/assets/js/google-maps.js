@@ -1,15 +1,15 @@
 function initMap() {
-    // Latitude and Longitude
-    var myLatLng = {lat: -6.207690, lng: 106.985270};
+    // Широта и долгота Ташкента
+    var myLatLng = {lat: 41.2995, lng: 69.2401};
 
     var map = new google.maps.Map(document.getElementById('google-maps'), {
-        zoom: 17,
+        zoom: 10, // Можете настроить уровень приближения по вашему усмотрению
         center: myLatLng
     });
 
     var marker = new google.maps.Marker({
         position: myLatLng,
         map: map,
-        title: 'South Jakarta, INA' // Title Location
+        title: 'Ташкент, Узбекистан' // Название локации
     });
 }

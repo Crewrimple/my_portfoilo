@@ -31,7 +31,7 @@
             <div class="progress-wrapper wow fadeInUp">
               <span class="caption">@lang('skills.php')</span>
               <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">85%</div>
+                <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">70%</div>
               </div>
             </div>
             <div class="progress-wrapper wow fadeInUp">
@@ -57,7 +57,7 @@
             <div class="progress-wrapper wow fadeInUp">
               <span class="caption">@lang('skills.web_design')</span>
               <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 99%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">99%</div>
+                <div class="progress-bar" role="progressbar" style="width: 99%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
               </div>
             </div>
             <div class="progress-wrapper wow fadeInUp">

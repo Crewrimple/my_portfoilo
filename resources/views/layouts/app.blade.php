@@ -6,7 +6,7 @@
   
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   
-  <meta name="copyright" content="MACode ID, https://www.macodeid.com/">
+
   
   <title>Netronic</title>
 
