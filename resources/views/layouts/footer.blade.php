@@ -14,10 +14,12 @@
             <p>@lang('footer.follow_me')</p>
             <hr class="divider">
             <ul class="list-unstyled">
-              <li><a href="#">Telegram</a></li>
-              <li><a href="#">Instagram</a></li>
-             <li><a href="#">Vk</a></li>
-             <li><a href="#">Github</a></li>
+            
+                <li><a href="https://t.me/netronic19">Telegram</a></li>
+                <li><a href="https://vk.com/fedya_1337">Vk</a></li>
+                <li><a href="https://github.com/Crewrimple">Github</a></li>
+        
+            
             </ul>
           </div>
         </div>
